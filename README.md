@@ -48,7 +48,7 @@ Credits dotfiles: [**`xyb3ria`**](https://github.com/xyb3ria/)
 
 ### Dependencies
 
-- **WM** : [**`bspwm`**](https://madnight.github.io/bspwm/) [**`rofi`**](https://archlinux.org/packages/?name=wmname) [**`sxhkd`**](https://wiki.archlinux.org/title/Sxhkd) [**`dunst`**](https://wiki.archlinux.org/title/Dunst)  [**`ranger`**](https://github.com/hanschen/ksuperkey) [**`xclip`**](https://wiki.archlinux.org/title/clipboard) [**`fzf-lovely`**](https://i3wm.org/)
+- **WM** : [**`bspwm`**](https://madnight.github.io/bspwm/) [**`rofi`**](https://archlinux.org/packages/?name=wmname) [**`sxhkd`**](https://wiki.archlinux.org/title/Sxhkd) [**`dunst`**](https://wiki.archlinux.org/title/Dunst)  [**`ranger`**](https://github.com/hanschen/ksuperkey) [**`xclip`**](https://wiki.archlinux.org/title/clipboard) [**`i3-wm`**](https://i3wm.org/)
 
 - **Utilities** : [**`rofi`**](https://github.com/davatorium/rofi) [**`polybar`**](https://github.com/polybar/polybar) [**`xorg-xsetroot`**](https://archlinux.org/packages/extra/x86_64/xorg-xsetroot/) [**`xsettingsd`**](https://wiki.archlinux.org/title/Xsettingsd) [**`xfce4-power-manager`**](https://wiki.archlinux.org/title/Power_management) [**`xfce-polkit`**](https://wiki.archlinux.org/title/Polkit) [**`eww`**](https://github.com/elkowar/eww)
 
