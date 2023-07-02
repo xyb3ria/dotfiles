@@ -56,4 +56,9 @@ Credits dotfiles: [**`xyb3ria`**](https://github.com/xyb3ria/)
 
 - **Text Editor** : [**`Neovim`**](https://neovim.io/)
 - 
-- **Web Browser** : [**`Firefox`**](https://www.mozilla.org/en-US/firefox/) 
+- **Web Browser** : [**`Firefox`**](https://www.mozilla.org/en-US/firefox/)
+
+
+**pacman** [sudo pacman -S libxcb libxext pcre cairo python-sphinx libuv xcb-proto -y]
+**yay** [yay -S u2f-udev-rules-git cava scrub zsh-syntax-highlighting zsh-autosuggestions]
+
