@@ -2,6 +2,6 @@
 
 Set zsh as your login shell:
 
-    chsh -s $(which zsh)
+    <requirements-packages>
 
 ## Install
