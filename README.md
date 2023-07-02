@@ -14,13 +14,13 @@ Credits dotfiles: [**`xyb3ria`**](https://github.com/xyb3ria/)
 
 </br>
 
- - OS: [**`Kali Linux`**]([https://archlinux.org/))
+ - OS: [**`Arch Linux`**](https://archlinux.org/)
  - WM: [**`bspwm`**](https://github.com/baskerville/bspwm) 
  - Bar: [**`Polybar`**](https://github.com/polybar/polybar)
  - Compositor: [**`picom`**](https://github.com/yshui/picom)
  - terminal: [**`kitty`**](https://github.com/kovidgoyal/kitty)
  - Aapp Launcher: [**`rofi`**](https://github.com/davatorium/rofi)
- - Shell: [**`zsh`**]([https://github.com/ohmyzsh/ohmyzsh))
+ - Shell: [**`zsh`**](https://github.com/ohmyzsh/ohmyzsh)
 
 </br>
 
