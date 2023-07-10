@@ -33,7 +33,7 @@ Credits dotfiles: [**`xyb3ria`**](https://github.com/xyb3ria/)
 
 |BSPWM|
 |--|
-| <img src="img/deep.png"> |
+| <img src="images/bspwm.png"> |
 
 </center>
 
