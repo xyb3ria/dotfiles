@@ -31,7 +31,6 @@ Credits dotfiles: [**`xyb3ria`**](https://github.com/xyb3ria/)
 <h1 align="center"> WM </h1>
 <center>
 
-|BSPWM|
 |--|
 
 </center>
