@@ -10,7 +10,7 @@ Credits dotfiles: [**`xyb3ria`**](https://github.com/xyb3ria/)
 
 <h1 align="left"> :computer: about</h1>
 
-<img src="img/deep.png" align="right" width="500px">
+<img src="images/racing_v2.png" align="right" width="500px">
 
 </br>
 
